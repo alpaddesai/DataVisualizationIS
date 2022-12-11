@@ -4,4 +4,4 @@ The project provides an overview of data visualization in the Information System
 
 ![image](DataVisualization.jpg)
 
-Additional details reference: 
+Additional details reference: https://github.com/alpaddesai/EngineeringProjectManagement2022
