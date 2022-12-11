@@ -6,4 +6,6 @@ The project provides an overview of data visualization in the Information system
 
 ![image](Ethics.jpg)
 
+![image](USCopyrightCertificate.png)
+
 Additional details reference: https://github.com/alpaddesai/EngineeringProjectManagement2022
